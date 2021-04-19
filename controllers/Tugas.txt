@@ -1,0 +1,6 @@
+coba bikin email confirmation untuk aktivasi kode
+	- generate code
+	- store ke DB
+	- Kirim activation codenya di email confirmation
+	- cocokkan code yg diinput user dengan yg di DB
+	- kalo cocok update is_email_confirmed
